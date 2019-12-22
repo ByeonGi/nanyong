@@ -7,9 +7,6 @@
 
     <link rel="stylesheet" href="./mission/index.css" type = "text/css">
     <title>Document</title>
-    <script>
-        <?php echo "1"?>
-    </script>
 </head>
 <body>
     <div class ="wrap">
